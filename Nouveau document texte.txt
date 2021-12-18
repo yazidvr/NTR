@@ -1,0 +1,92 @@
+[
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1671358934.678514,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "SecureNetflixId",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "v%3D2%26mac%3DAQEAEQABABRJ8jQw_lHN5DHhxyrajOhSbnU6LVn9-tA.%26dt%3D1639822935067"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1671358934.67854,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "NetflixId",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "v%3D2%26ct%3DBQAOAAEBEAxrNolSaiJeDrxwsu7RHmuB0PU6Otdu8P0PtetgsWEbIYVwHCbKuWvEqrcISIPhwLne6IXr5XO0MRKIHnvWbL2sCAvVect_nkCSUsT1rO3gWZ1vBUw54pBQ9m8lpYqDWxOWOPF7pZosNQom58jQRxR8jc1hfWHpAaAdBXiDDmoLN0B9k21WbtG_2ca6ZlDG9eehgmpJBHLZP4V0hYkezjx7utCvq2Sur9HHL6NF48FC8-_zK3v_ZrWvDBX-gBVP8TcXPNaLxMfeANeJPiVi29mPgk-E8kBvhPWePt6yA_tW4h1xvTqp-mDFG5QF06uWEa1EdcNhWrL68P0M5mjgK4Uija_ohOFzzmhBF8KVbAdpkZy4KzdNb03owHQGJjs8ETl0Gqb0_BIQV1zIKJGIQhLK9Yd9b91lnFImwffZvGupZi3cCmWsfjOKskk3vxKW8VQSWxaNF9qyvthqUYU3e33kJFLqq-GSVPNTqTdr-XyHHqPbje1PnRtgGKBvO8273t-bd0Kj5FRXJR6aszlP-UcRNMoXPmq_7FAN7ZAERcGm9AT79RmBw-GcIYEmb14VgcbAR-q-Y02dODMJB43Xj0WY2X2XCrWx_5PoErssNEeSi_UmgNBvca-vyDWfWjOv0L3L%26bt%3Ddbl%26ch%3DAQEAEAABABTXs9yWhQuxbCkO7SfqLlZRGXz3drVr66s.%26mac%3DAQEAEAABABQXHEF9c4DHX1N2sOQJdtBD8_nRue0mrNo."
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1671358935,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "OptanonConsent",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "isIABGlobal=false&datestamp=Sat+Dec+18+2021+15%3A52%3A15+GMT%2B0530+(India+Standard+Time)&version=6.6.0&consentId=7fca5557-8cf3-4e39-94cc-b4d5e958564d&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".www.netflix.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "cL",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "1639822935307%7C163982292517261900%7C163982292515718795%7C%7C18%7Cnull"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1639833734.678451,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "flwssn",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "fd81f8b6-ce38-4345-8843-b0df9b2ff484"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1671358946.528071,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "memclid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "0fd4045c-d983-450a-a0fe-d121d5ea412d"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1671358934.678492,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "nfvdid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "BQFmAAEBELMYtEJfPFyJ5jJH5nTMEF9gaA7gJqkezdCTSCyF98XbIiX5QTaSgpJ85R6ZnmH8vhv1BafkoJ0sEZqGF6QY4l3XoasEE1FZb3WPrmiQa53m9UWSwTEPMoXYAqGQ7WEcrF_rllm6iKXpaFDDq_tCzg06"
+    }
+]
